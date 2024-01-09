@@ -7,7 +7,7 @@ import SpecialOffer from "./SpecialOffer";
 import Subscribe from "./Subscribe";
 import SuperQuality from "./SuperQuality";
 import Navbar from "./Navbar";
-import Button from "./button";
+import Button from "./Button";
 import ShoeCard from "./ShoeCard";
 import PopularProductCard from "./PopularProductCard";
 export {

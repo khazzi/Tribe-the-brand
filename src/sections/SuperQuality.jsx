@@ -1,5 +1,5 @@
 import { shoe8 } from "../assets/images"
-import Button from "./button"
+import Button from "./Button"
 const SuperQuality = () => {
   return (
     <section

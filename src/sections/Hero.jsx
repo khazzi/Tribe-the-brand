@@ -2,7 +2,7 @@ import { arrowRight } from "../assets/icons"
 import { bigShoe1 } from "../assets/images"
 import { shoes, statistics } from "../constants"
 import ShoeCard from "./ShoeCard"
-import Button from "./button"
+import Button from "./Button"
 import { useState } from "react"
 const Hero = () => {
   const [bigShoeImg, setBigShoeImg] = useState(bigShoe1)
